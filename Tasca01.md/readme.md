@@ -53,4 +53,4 @@ El resultat final serà un **Dossier de Projecte Tècnic** que inclourà:
 *   `Hardware Rugeritzat (IP68)`
 *   `Sistemes de Còpia de Seguretat`
 ---
-*Projecte de transformació digital per a "Fruits de la terra"*[cite: 1].
+*Projecte de transformació digital per a "Fruits de la terra"*.

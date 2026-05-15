@@ -3,7 +3,7 @@
 **Data:** 11 de maig de 2026
 
 ---
-
+[Tornar al readme](/Tasca01.md/readme.md)
 ### 📌 Índex Interactiu
 1. [INFORME DE CONNECTIVITAT](#1-informe-de-connectivitat)
    * [Anàlisi de l’entorn](#anàlisi-de-lentorn)

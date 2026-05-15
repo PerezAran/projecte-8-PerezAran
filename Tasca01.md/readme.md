@@ -1,10 +1,11 @@
 # 🍎 Fruits de la Terra: Digitalització Agrícola Sostenible
 
 ![Status](https://img.shields.io/badge/Projecte-En_Curs-green?style=for-the-badge)
-![Sector](https://img.shields.io/badge/Sector-Primari_Innovaci%C3%B3-orange?style=for-the-badge)
+![Sector](https://img.shields.io/badge/Sector-Primari_Innovaci%C3%B3-orange?style=for-the-badge) 
 
 **Fruits de la terra** és una explotació agrícola que vol incorporar la tecnologia per optimitzar la seva gestió. L'objectiu és convertir l'explotació en un exemple de **sostenibilitat i innovació** al sector primari mitjançant el quadern de camp digital i la traçabilitat.
 
+- [Solució tasca](/Tasca01.md/solucio.md)
 ---
 
 ## 🚀 Objectius de la Tasca

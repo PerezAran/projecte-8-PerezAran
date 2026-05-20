@@ -57,19 +57,3 @@ IPFire
 ### Bloqueig horari
 - Regla activa només de dimarts a divendres, 16:00–17:00
 - Qualsevol intent fora d’aquest període rep bloqueig del tallafocs
-
-## 📌 Observacions
-
-- La pàgina de bloqueig per defecte d’IPFire **ja mostra la URL denegada** (no cal configuració addicional).
-- Per al bloqueig d’una URL concreta, és important escriure la URL completa (incloent `https://`) i desar-la a la secció corresponent.
-- La llista de frases bloquejades utilitza **expressió regular** simple. Amb el terme `anime` ja n’hi ha prou per interceptar qualsevol domini o URL que contingui aquesta cadena.
-- El bloqueig per hores s’aplica a nivell de **firewall**, no del proxy. Això permet tallar completament la connexió fora de l’horari permès.
-
-## 📎 Captures de pantalla
-
-Les imatges referenciades a la guia detallada (`img/1.png` a `img/23.png`) il·lustren cada pas de la configuració i els resultats obtinguts.
-
----
-
-**Data de realització:** Maig 2026 (d’acord amb la v20250320 de l’enunciat)  
-**Autor:** Estudi de l’activitat de proxy amb filtrat de contingut.

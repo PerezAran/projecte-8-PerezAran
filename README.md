@@ -16,6 +16,8 @@ En l'economia actual, la transformació digital és una necessitat de supervivè
 
 # 📂 Índex del Projecte 8: PerezAran
 
+<br>
+
 ### 📝 Tasques de Seguiment i Documentació
 
 | Codi | Descripció de la Tasca | Enllaç Directe |

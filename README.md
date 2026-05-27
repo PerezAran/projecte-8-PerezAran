@@ -31,14 +31,6 @@ projecte8/
 
 # 📂 Índex del Projecte 8: PerezAran
 
-### 📌 Productes (Lliuraments Formals)
-
-| Codi | Producte / Activitat | Enllaç Directe |
-| :--- | :--- | :--- |
-| **P01** | *No s'han detectat carpetes de producte (Pxx) en aquest repositori* | [Anar a la carpeta](#) |
-
-<br>
-
 ### 📝 Tasques de Seguiment i Documentació
 
 | Codi | Descripció de la Tasca | Enllaç Directe |

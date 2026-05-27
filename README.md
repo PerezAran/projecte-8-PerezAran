@@ -29,6 +29,8 @@ projecte8/
     ├── README.md           <-- Descripció de l'activitat 2
     └── solucio.md          <-- Resolució tècnica de la tasca 2
 
+
+
 ## 📂 Índex del Projecte 8: PerezAran
 
 ### 📌 Productes (Lliuraments Formals)

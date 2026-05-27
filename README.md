@@ -14,23 +14,6 @@ En l'economia actual, la transformació digital és una necessitat de supervivè
 
 ---
 
-### 📂 Estructura del Repositori
-
-La documentació i resolució del projecte s'organitza seguint el següent esquema de directoris:
-
-```text
-projecte8/
-├── README.md               <-- (Aquest fitxer de presentació)
-├── img/                    <-- Carpeta arrel per a totes les imatges
-├── Tasca01/
-│   ├── README.md           <-- Descripció de l'activitat 1
-│   └── solucio.md          <-- Resolució tècnica de la tasca 1
-└── Tasca02/
-    ├── README.md           <-- Descripció de l'activitat 2
-    └── solucio.md          <-- Resolució tècnica de la tasca 2
-
----
-
 # 📂 Índex del Projecte 8: PerezAran
 
 ### 📝 Tasques de Seguiment i Documentació

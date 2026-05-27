@@ -29,7 +29,15 @@ projecte8/
     ├── README.md           <-- Descripció de l'activitat 2
     └── solucio.md          <-- Resolució tècnica de la tasca 2
 
-# 📂 Índex del Projecte 8: PerezAran
+## 📂 Índex del Projecte 8: PerezAran
+
+### 📌 Productes (Lliuraments Formals)
+
+| Codi | Producte / Activitat | Enllaç Directe |
+| :--- | :--- | :--- |
+| **P01** | *No s'han detectat carpetes de producte (Pxx) en aquest repositori* | [Anar a la carpeta](#) |
+
+<br>
 
 ### 📝 Tasques de Seguiment i Documentació
 

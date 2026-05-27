@@ -26,3 +26,6 @@ En l'economia actual, la transformació digital és una necessitat de supervivè
 | **T04** | TascaPFIRE.md | [Anar a la carpeta](./TascaIPFIRE.md) |
 | **T05** | TascaKali | [Anar a la carpeta](./TascaKali) |
 | **T06** | TascaWireshark.md | [Anar a la carpeta](./TascaWireshark.md) |
+
+[Anar a presetacio](https://github.com/PerezAran/presentacio)
+

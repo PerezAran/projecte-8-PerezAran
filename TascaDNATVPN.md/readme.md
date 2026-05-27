@@ -1,4 +1,4 @@
-# README.md - Activitat AA4: NAT i VPN
+# Activitat AA4: NAT i VPN
 
 Aquest document descriu l’activitat **AA4: NAT i VPN** del curs *Serveis de xarxa* (CFGM SMX). L’objectiu és configurar i comparar dos mètodes d’accés remot a serveis interns: **Destination NAT (DNAT)** i **Virtual Private Network (VPN)**.
 

@@ -16,15 +16,13 @@ En l'economia actual, la transformació digital és una necessitat de supervivè
 
 # 📂 Índex del Projecte 8: PerezAran
 
-<br>
-
 ### 📝 Tasques de Seguiment i Documentació
 
 | Codi | Descripció de la Tasca | Enllaç Directe |
 | :--- | :--- | :--- |
-| **T01** | Tasca01.md | [Anar a la carpeta](#) |
-| **T02** | Tasca02.md | [Anar a la carpeta](#) |
-| **T03** | TascaDNATVPN.md | [Anar a la carpeta](#) |
-| **T04** | TascaPFIRE.md | [Anar a la carpeta](#) |
-| **T05** | TascaKali | [Anar a la carpeta](#) |
-| **T06** | TascaWireshark.md | [Anar a la carpeta](#) |
+| **T01** | Tasca01.md | [Anar a la carpeta](./Tasca01.md) |
+| **T02** | Tasca02.md | [Anar a la carpeta](./Tasca02.md) |
+| **T03** | TascaDNATVPN.md | [Anar a la carpeta](./TascaDNATVPN.md) |
+| **T04** | TascaPFIRE.md | [Anar a la carpeta](./TascaPFIRE.md) |
+| **T05** | TascaKali | [Anar a la carpeta](./TascaKali) |
+| **T06** | TascaWireshark.md | [Anar a la carpeta](./TascaWireshark.md) |
